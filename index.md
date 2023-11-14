@@ -1,6 +1,6 @@
-#Bea
+# Bea
 
-##Protectos personales
+## Protectos personales
 
 página hecha en markdown
 
